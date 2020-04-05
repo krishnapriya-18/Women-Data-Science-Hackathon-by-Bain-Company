@@ -16,3 +16,5 @@
  Ensemble of 4 models (simple mean):
  Public Score: 109.11
  Private score: 115.99
+ 
+ https://datahack.analyticsvidhya.com/contest/women-in-the-loop-a-data-science-hackathon-by-bain/
