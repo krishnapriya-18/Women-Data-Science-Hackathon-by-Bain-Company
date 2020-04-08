@@ -1,7 +1,7 @@
 # Women-Data-Science-Hackathon-by-Bain-Company (Analytics Vidhya)
 
-## Private Rank: 13
-## Public Rank: 19
+## Private Rank: 9
+## Public Rank: 14
 
  Indivdual Model Scores:
 
